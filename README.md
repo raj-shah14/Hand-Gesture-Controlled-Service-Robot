@@ -1,10 +1,12 @@
 # Gesture-recognition-interface-for-remote-access-of-a-service-robot
-Hand gesture controlled rover that lifts and moves objects using raspberry pi (Python programming)
+Hand gesture controlled rover that lifts and moves objects.
+The Hand Gesture Recognition is done on the Master Raspberrypi, and the rover movements are performed with the slave raspberrypi connected to it.
+Wireless communication takes places between the two raspberry pi's over the WiFi.
 
 Steps to execute:
 
 1. Run  controllingallmotors.py and receive.py as servers ready to listen.
 2. Run predictgest.py which reads gesture and multicasts index value corresponding to a pre-defined gesture.
 
-https://www.youtube.com/watch?v=KWB5O_lDwE8
+[Video Demonstration](https://www.youtube.com/watch?v=KWB5O_lDwE8)
 
