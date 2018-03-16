@@ -10,3 +10,6 @@ Steps to execute:
 
 [Video Demonstration](https://www.youtube.com/watch?v=KWB5O_lDwE8)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=KWB5O_lDwE8
+" target="_blank"><img src="http://img.youtube.com/vi/KWB5O_lDwE8/0.jpg" 
+alt="Hand Gesture Controlled Service Bot" width="240" height="180" border="10" /></a>
