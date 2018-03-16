@@ -8,8 +8,6 @@ Steps to execute:
 1. Run controllingallmotors.py and receive.py as servers are ready to listen on two slave Raspberry pi's.
 2. Run predictgest.py which reads gesture and multicasts index value corresponding to a pre-defined gesture.
 
-[Video Demonstration](https://www.youtube.com/watch?v=KWB5O_lDwE8)
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KWB5O_lDwE8
 " target="_blank"><img src="http://img.youtube.com/vi/KWB5O_lDwE8/0.jpg" 
 alt="Hand Gesture Controlled Service Bot" width="240" height="180" border="10" /></a>
